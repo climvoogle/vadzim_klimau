@@ -1,2 +1,2 @@
 # vadzim_klimau
-Ptthon
+Python
